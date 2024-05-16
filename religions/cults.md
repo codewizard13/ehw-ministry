@@ -49,3 +49,4 @@ From a Christian perspective, a cult has at least one of the following character
 - [17.4 Types of Religious Organizations – Sociology](https://open.lib.umn.edu/sociology/chapter/17-4-types-of-religious-organizations/)
 - [What is the difference between a sect and a cult? | GotQuestions.org](https://www.gotquestions.org/sect-cult.html)
 - [What is the difference between a cult and a religion? – Evidence for Christianity](https://evidenceforchristianity.org/what-is-the-difference-between-a-cult-and-a-religion/)
+- [ChatGPT: What is the difference between the Christian definition of the word "cult" vs an atheist's perspective of the word?](https://chatgpt.com/c/34b315f9-bb8b-4e55-a837-ab09e36041fe)
