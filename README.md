@@ -30,4 +30,5 @@ Examples of things you may find on this site are:
 ## MY OTHER COLLECTIONS & WIKIS
 
 - **Cheatsheets**: ([local](/../_cheatsheets/), [GitHub](https://github.com/codewizard13/ehw-cheatsheets)) Mostly technical tips and processes for coding, programming, software development, IT, PC and printer repair, etc.
-- **Music**: [local](/../_music/), [GitHub](https://github.com/codewizard13/ehw-music-docs.git)
+
+- **Music**: ([local](/../_music/), [GitHub](https://github.com/codewizard13/ehw-music-docs.git)) My knowledge about and with music including songs, artists, theory, instruments, genres, playing styles, worship music, guitar ministry, etc.
