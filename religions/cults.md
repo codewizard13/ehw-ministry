@@ -37,4 +37,15 @@ From a Christian perspective, a cult has at least one of the following character
 
 ## References
 
-- https://kinsta.com/knowledgebase/content-management-system/
+- [Sociological classifications of religious movements - Wikipedia](https://en.wikipedia.org/wiki/Sociological_classifications_of_religious_movements)
+- [Sects, Cults and Denominations - Good Faith Media](https://goodfaithmedia.org/sects-cults-and-denominations-cms-866/)
+- [Chick.com: Be sure you know the difference: Cult or Denomination?](https://www.chick.com/battle-cry/article?id=Be-sure-you-know-the-difference-Cult-or-Denomination)
+- [Is it a cult, or a new religious movement? | Penn Today](https://penntoday.upenn.edu/news/it-cult-or-new-religious-movement)
+- [What’s the Difference Between a Religion & Cult? - YouTube](https://www.youtube.com/watch?v=7SeWjo5duzc)
+- [Is There Any Difference Between a Cult and a Religion? - YouTube](https://www.youtube.com/watch?v=0twopr59buc)
+- [Types of Religion | Introduction to Sociology](https://courses.lumenlearning.com/wm-introductiontosociology/chapter/types-of-religion/)
+- [Is It a Cult or the Beginning of a New Religion? | Tufts Now](https://now.tufts.edu/2023/12/13/it-cult-or-beginning-new-religion)
+- [Descriptive Religion/Religions, denominations, sects, and cults - Wikibooks, open books for an open world](https://en.wikibooks.org/wiki/Descriptive_Religion/Religions,_denominations,_sects,_and_cults)
+- [17.4 Types of Religious Organizations – Sociology](https://open.lib.umn.edu/sociology/chapter/17-4-types-of-religious-organizations/)
+- [What is the difference between a sect and a cult? | GotQuestions.org](https://www.gotquestions.org/sect-cult.html)
+- [What is the difference between a cult and a religion? – Evidence for Christianity](https://evidenceforchristianity.org/what-is-the-difference-between-a-cult-and-a-religion/)
