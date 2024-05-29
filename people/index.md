@@ -8,6 +8,7 @@ This includes people who were considered heroes of the faith, as well as evil sp
 
 ---
 
+!!! #NOTE: We will probably end up converting this to a MySQL or LibreOffice database, but for now, we will continue with this markdown format.
 
 
 ### A
@@ -255,7 +256,7 @@ This includes people who were considered heroes of the faith, as well as evil sp
 
 ### C
 
-- 
+- **Clay Clark**:
 
 ### D
 
