@@ -13,20 +13,27 @@ This includes people who were considered heroes of the faith, as well as evil sp
 
 ### A
 
-- **Absalom**: blah
+- **Absalom**:
+
+- **Abigail**:
 
 ### B
 
-- **Bible**:
+- **Baal**:
+
+- **Beelzebub**:
 
 ### C
 
-- **conception**: The moment the sperm enters the egg a baby is formed
-- **cult**: From a Christian perspective, a cult is any group that follows teachings that contradict orthodox Christian doctrine and promote heresy.
+- **Caleb**:
+
+- **Canaan**:
 
 ### D
 
-- **David**: The 2nd King of Israel; the boy who defeated and killed the giant Goliath with a slingshot and a stone
+- **David**: The 2nd King of Israel; the boy who defeated and killed the giant Goliath with a slingshot and a stone.
+
+- **Daniel**:
 
 
 ## The Beginning - Early Church
