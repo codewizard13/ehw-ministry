@@ -1,174 +1,133 @@
-# PEOPLE & PERSONALITIES: OLD TESTAMENT 🕎
+# PEOPLE & PERSONALITIES: OLD TESTAMENT 📜
 
 [🏚️ Back to Main Knowledge Base](../README.md) • [📖 People & Personalities Index](./index.md)
 
-This file lists key figures from the Old Testament: patriarchs, prophets, priests, kings, and other notable individuals and groups.
+**🕰️ Timeframe:** c. 2000 BC – 400 BC  
+**🔎 Focus:** Formation of Israel, covenants, prophetic ministry, and the unfolding story of God’s people.
 
-**Timeframe:** c. 2000 BC – 400 BC  
-**Focus:** Formation of Israel, covenants, prophetic ministry, and the unfolding story of God’s people.
+This file lists key people and personalities from the **Old Testament**, including heroes of faith, prophets, patriarchs, kings, and figures of opposition. Each entry includes a short summary and relevant tags for quick thematic scanning or later database import.
 
----
+***
 
 ### 📖 A–Z Quick Links
+[A](#a) -  [B](#b) -  [C](#c) -  [D](#d) -  [E](#e) -  [F](#f) -  [G](#g) -  [H](#h) -  [I](#i) -  [J](#j) -  [K](#k) -  [L](#l) -  [M](#m) -  [N](#n) -  [O](#o) -  [P](#p) -  [Q](#q) -  [R](#r) -  [S](#s) -  [T](#t) -  [U](#u) -  [V](#v) -  [W](#w) -  [X](#x) -  [Y](#y) -  [Z](#z)
 
-[A](#a-old-testament) • [B](#b-old-testament) • [C](#c-old-testament) • [D](#d-old-testament) • [E](#e-old-testament) • [F](#f-old-testament) • [G](#g-old-testament) • [H](#h-old-testament) • [I](#i-old-testament) • [J](#j-old-testament) • [K](#k-old-testament) • [L](#l-old-testament) • [M](#m-old-testament) • [N](#n-old-testament) • [O](#o-old-testament) • [P](#p-old-testament) • [Q](#q-old-testament) • [R](#r-old-testament) • [S](#s-old-testament) • [T](#t-old-testament) • [U](#u-old-testament) • [V](#v-old-testament) • [W](#w-old-testament) • [X](#x-old-testament) • [Y](#y-old-testament) • [Z](#z-old-testament)
+***
 
----
+## A
 
-## A (Old Testament)
+- **Absalom** — Son of King David who rebelled against his father and died tragically.  
+  _Tags: `#Royalty` `#Rebellion`_
 
-_TBD_
+- **Abigail** — Wise and discerning woman; wife of Nabal and later of King David.  
+  _Tags: `#Wisdom` `#Faithful`_
 
----
+***
 
-## B (Old Testament)
+## B
 
-_TBD_
+- **Baal** — Canaanite storm and fertility deity often opposed to Yahweh in the Old Testament.  
+  _Tags: `#MythicalFigure` `#FalseGod`_
 
----
+- **Beelzebub** — Ancient god later associated with demonic influence in Hebrew literature.  
+  _Tags: `#Demon` `#Villain`_
 
-## C (Old Testament)
+***
 
-_TBD_
+## C
 
----
+- **Caleb** — Faithful spy who, with Joshua, trusted God’s promise regarding Canaan.  
+  _Tags: `#Faithful` `#Hero`_
 
-## D (Old Testament)
+- **Canaan** — Ancestor and symbolic nation often associated with opposition to Israel.  
+  _Tags: `#Region` `#HistoricalGroup`_
 
-_TBD_
+***
 
----
+## D
 
-## E (Old Testament)
+- **David** — Shepherd and musician who became Israel’s second king; known for defeating Goliath.  
+  _Tags: `#Royalty` `#Warrior` `#Psalmist`_
 
-_TBD_
+- **Daniel** — Prophet during Israel’s exile; known for steadfast faith and visionary dreams.  
+  _Tags: `#Prophet` `#Faithful`_
 
----
+***
 
-## F (Old Testament)
+## J
 
-_TBD_
+- **Jacob** — Patriarch of Israel; wrestled with God and was renamed Israel.  
+  _Tags: `#Patriarch` `#Faith`_
 
----
+- **Joseph** — Son of Jacob sold into slavery, later rose to power in Egypt.  
+  _Tags: `#DreamInterpreter` `#Faithful` `#Leader`_
 
-## G (Old Testament)
+***
 
-_TBD_
+## K
 
----
+- **Korah** — Rebelled against Moses and Aaron; the earth swallowed him and his followers.  
+  _Tags: `#Rebellion` `#Judgment`_
 
-## H (Old Testament)
+- **King Saul** — The first king of Israel, chosen by God but later rejected.  
+  _Tags: `#Royalty` `#TragicFigure`_
 
-_TBD_
+***
 
----
+## L
 
-## I (Old Testament)
+- **Lot** — Nephew of Abraham; lived in Sodom and later rescued before its destruction.  
+  _Tags: `#Survivor` `#FaithTested`_
 
-_TBD_
+- **Leah** — First wife of Jacob; mother of six of the twelve tribes of Israel.  
+  _Tags: `#Matriarch` `#TribesOfIsrael`_
 
----
+***
 
-## J (Old Testament)
+## M
 
-_TBD_
+- **Moses** — Deliverer of Israel from Egypt, receiver of the Ten Commandments.  
+  _Tags: `#Prophet` `#Lawgiver` `#Leader`_
 
----
+- **Miriam** — Sister of Moses and Aaron; prophetess who led Israel in song.  
+  _Tags: `#Prophetess` `#Worship` `#Faithful`_
 
-## K (Old Testament)
+***
 
-_TBD_
+/// OTHER LETTERS HERE
 
----
+***
 
-## L (Old Testament)
+## W
 
-_TBD_
+- **Wisemen (Magi, Old Testament Context)** — Scholars and astrologers from Eastern regions who advised kings, often seen in connection with ancient wisdom traditions preceding the New Testament era.  
+  _Tags: `#Scholar` `#AncientWisdom` `#Advisor`_
 
----
+- **Woman of Tekoa** — Wise woman sent by Joab to convince King David to reconcile with Absalom.  
+  _Tags: `#Mediator` `#Wisdom` `#Courage`_
 
-## M (Old Testament)
+***
 
-_TBD_
+## X
 
----
+- **Xerxes (Ahasuerus)** — Persian king during the time of Esther; issued decrees impacting the Jewish people.  
+  _Tags: `#Royalty` `#PersianEmpire` `#HistoricalFigure`_
 
-## N (Old Testament)
+***
 
-_TBD_
+## Y
 
----
+- **Yahweh** — The personal covenant name of God revealed to Moses; central to Israel’s worship and covenantal identity.  
+  _Tags: `#God` `#Covenant` `#DivineName`_
 
-## O (Old Testament)
+- **Yoash (Jehoash)** — King of Judah who restored the Temple and reigned with mixed faithfulness.  
+  _Tags: `#Royalty` `#Restoration` `#Judah`_
 
-_TBD_
+***
 
----
+## Z
 
-## P (Old Testament)
+- **Zachariah (Zechariah the Prophet)** — Post‑exilic prophet who encouraged the rebuilding of the Temple and foretold the coming Messiah.  
+  _Tags: `#Prophet` `#Visionary` `#Restoration`_
 
-_TBD_
-
----
-
-## Q (Old Testament)
-
-_TBD_
-
----
-
-## R (Old Testament)
-
-_TBD_
-
----
-
-## S (Old Testament)
-
-_TBD_
-
----
-
-## T (Old Testament)
-
-_TBD_
-
----
-
-## U (Old Testament)
-
-_TBD_
-
----
-
-## V (Old Testament)
-
-_TBD_
-
----
-
-## W (Old Testament)
-
-_TBD_
-
----
-
-## X (Old Testament)
-
-_TBD_
-
----
-
-## Y (Old Testament)
-
-_TBD_
-
----
-
-## Z (Old Testament)
-
-_TBD_
-
----
-
-**⬅️ Prev:** [Celestial Beings](./00_celestial-beings.md) • **You Are Here:** Old Testament • **➡️ Next:** [Intertestamental & Messianic Expectation](./02_intertestamental.md)
+- **Zedekiah** — Last king of Judah before Babylonian exile; rebelled against Nebuchadnezzar and witnessed Jerusalem
