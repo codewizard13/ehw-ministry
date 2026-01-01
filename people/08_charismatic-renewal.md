@@ -2,7 +2,7 @@
 
 [🏚️ Back to Main Knowledge Base](../README.md) • [📖 People & Personalities Index](./index.md)
 
-**Timeframe:** AD 1960 – 1990s  
+**Timeframe:** AD 1950 – 1989  
 **Focus:** Leaders and movements in Spirit baptism, healing, prophetic ministry, deliverance, and worship renewal across denominations.
 
 ---

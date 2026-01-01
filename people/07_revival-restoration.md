@@ -2,7 +2,7 @@
 
 [🏚️ Back to Main Knowledge Base](../README.md) • [📖 People & Personalities Index](./index.md)
 
-**Timeframe:** AD 1700 – 1900  
+**Timeframe:** AD 1800 – 1949  
 **Focus:** Leaders of Great Awakenings, holiness movements, missions, and early Pentecostal forerunners.
 
 ---

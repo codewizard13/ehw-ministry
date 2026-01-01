@@ -2,7 +2,7 @@
 
 [🏚️ Back to Main Knowledge Base](../README.md) • [📖 People & Personalities Index](./index.md)
 
-**Timeframe:** AD 1500 – 1700  
+**Timeframe:** AD 1500 – 1799  
 **Focus:** Reformers, translators, theologians, and early revivalists who reshaped doctrine and mission.
 
 ---

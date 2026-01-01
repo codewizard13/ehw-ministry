@@ -2,7 +2,7 @@
 
 [🏚️ Back to Main Knowledge Base](../README.md) • [📖 People & Personalities Index](./index.md)
 
-**Timeframe:** AD 1990 – 2020  
+**Timeframe:** AD 1990 – 2019  
 **Focus:** Apostolic and prophetic leaders, networks, and ministries restoring five-fold leadership and revival culture.
 
 ---
