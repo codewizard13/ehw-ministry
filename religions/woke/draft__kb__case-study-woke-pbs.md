@@ -69,7 +69,7 @@
 
 The concept of **“woke”** has evolved dramatically over the past two decades. Originally used within African American Vernacular English (AAVE) to mean *socially aware*—particularly of racial and systemic injustices—it has now become one of the most **polarizing cultural terms** in modern public discourse.
 
-This guide dissects how a recent **[Facebook discussion thread](#fb-woke-pbs)** about **Public Broadcasting Service (PBS)** and “wokeness” illustrates society’s divided understanding of the term. The thread includes varying perspectives—from those celebrating *wokeness* as compassion and awareness, to others who deride it as political overreach or moral conditioning.
+This guide dissects how a recent **[Facebook discussion thread](https://www.facebook.com/share/p/17idaPMLYC/)** about **Public Broadcasting Service (PBS)** and “wokeness” illustrates society’s divided understanding of the term. The thread includes varying perspectives—from those celebrating *wokeness* as compassion and awareness, to others who deride it as political overreach or moral conditioning.
 
 The case demonstrates a modern **semantic split**: for some, “woke” still embodies empathy and consciousness; for others, it symbolizes ideological excess or social manipulation. This document organizes and interprets those attitudes as part of a broader, ongoing dialogue about **values in media, education, and identity.**
 
